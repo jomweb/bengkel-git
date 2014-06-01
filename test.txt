@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test
 
 =======
@@ -6,3 +7,8 @@ tes
 
 test1
 >>>>>>> remotes/origin/huda
+=======
+tes
+
+saya umaq tambah data ni
+>>>>>>> remotes/origin/umaq
