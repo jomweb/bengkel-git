@@ -1,2 +1,3 @@
 nama : md firdauz ismail
 asal : batu pahat
+alamat : bangi
