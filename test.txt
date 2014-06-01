@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 test
 
+=======
+tes
+
+test1
+>>>>>>> remotes/origin/huda
